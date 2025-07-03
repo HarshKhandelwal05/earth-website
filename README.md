@@ -1,2 +1,3 @@
 # earth-website
-A fully environment website
+A fully responsive environment website
+Author : Harsh khandelwal
